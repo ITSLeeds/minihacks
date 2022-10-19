@@ -4,8 +4,8 @@ title: "ITS Mini Hacks"
 
 Welcome to ITS MiniHacks website.
 
-Test: https://itsleeds.github.io/geospatial-theme/people/
 
-Another test.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+It was build with [Quarto](https://quarto.org/docs/websites).
+
+Previous [website](https://itsleeds.github.io/geospatial-theme/people/). 
