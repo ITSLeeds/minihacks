@@ -1,1 +1,1 @@
-Sitemap: https://ITSLeeds.github.io/minihacks/sitemap.xml
+Sitemap: https://github.com/ITSLeeds/minihacks/sitemap.xml
