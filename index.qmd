@@ -1,5 +1,10 @@
 ---
 title: "ITS Mini Hacks"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
 Welcome to ITS MiniHacks website.
