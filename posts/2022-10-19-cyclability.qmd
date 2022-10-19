@@ -1,0 +1,9 @@
+---
+title: "Cyclability"
+description: "A mini hack on cyclability and related topics"
+author: "Fizz McPhee"
+date: "2022-10-19"
+draft: true
+---
+
+The motivation of this hackathon was the need to estimate cyclability for every segment on a route network.
