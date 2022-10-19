@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/ITSLeeds/minihacks/index.html</loc>
-    <lastmod>2022-10-19T15:58:56.222Z</lastmod>
+    <lastmod>2022-10-19T16:07:21.897Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/ITSLeeds/minihacks/about.html</loc>
-    <lastmod>2022-10-19T15:58:56.978Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/ITSLeeds/minihacks/posts/post-with-code/index.html</loc>
-    <lastmod>2022-10-19T15:58:57.762Z</lastmod>
+    <lastmod>2022-10-19T16:07:22.729Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/ITSLeeds/minihacks/posts/welcome/index.html</loc>
-    <lastmod>2022-10-19T15:58:58.106Z</lastmod>
+    <lastmod>2022-10-19T16:07:23.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/ITSLeeds/minihacks/posts/cyclability/index.html</loc>
+    <lastmod>2022-10-19T16:07:23.913Z</lastmod>
   </url>
 </urlset>
